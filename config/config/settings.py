@@ -147,7 +147,7 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
 EMAIL_HOST_USER = 'mohamedhasan9159@gmail.com'
-EMAIL_HOST_PASSWORD = 'your Gmail app password'## import change the password
+EMAIL_HOST_PASSWORD = 'yrfe bjeg slpg dsvu'
 
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 

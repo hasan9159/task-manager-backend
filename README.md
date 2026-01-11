@@ -60,7 +60,6 @@ cd config
 
 celery -A config worker -l info --pool=solo
 
-
 4,NEW Terminal
 
 🔟 Start Celery Beat (Scheduler)
