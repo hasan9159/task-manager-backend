@@ -1,11 +1,7 @@
 ## 📦 Project Setup Steps
 
 
-<<<<<<< HEAD
 cd task_manager 
-=======
-cd task_manager
->>>>>>> 09c2efc (Update README documentation)
 
 cd config 
 
